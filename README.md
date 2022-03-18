@@ -1,6 +1,24 @@
-# Resume materi GIT
+# create
 
-pada video pertama memperkenalkan apa itu GIT dan cara bagaimana cara untuk install GIT melalui internet. 
-Setelah itu pada video kedua diajarin cara untuk push dari GIT ke GITHUB dan juga mencari program sebelumnya pada repository. 
-Pada video ketiga cara push program ke GITHUB dan cara membuat branches agar lebih efisien dalam mengerjakan project besar,
-di setiap video juga menjelaskan berbagai pernitah yang dimiliki oleh GIT dan cara penggunaannya. 
+## Project setup
+```
+npm install
+```
+
+### Compiles and hot-reloads for development
+```
+npm run serve
+```
+
+### Compiles and minifies for production
+```
+npm run build
+```
+
+### Lints and fixes files
+```
+npm run lint
+```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
